@@ -1,5 +1,7 @@
 # Git and Github Course
 
+Taking EdX class now too!
+
 ## What is Git?
 
 Git is a version control system that allows you to track changes to files and folders. It also allows you to collaborate with other developers on the same project.
